@@ -1,4 +1,4 @@
-# Getting Started 
+## Getting Started 
 
 This project was bootstrapped with `yarn init` and created with these packages:
 - express
